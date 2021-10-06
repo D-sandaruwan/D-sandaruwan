@@ -3,7 +3,7 @@
 ## I'm an Undergraduate student
 
 - 🔭 I’m currently working on a semester project of my university
-- 🌱 I’m currently reading computer science and engineering degree
+- 🌱 I’m currently reading Computer Science and Engineering degree at University of Moratuwa
 - 👯 I’m looking to collaborate on an open source project
 - ⚡ Fun fact: A huge Jarvis fan
 
