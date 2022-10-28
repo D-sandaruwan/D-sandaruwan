@@ -1,8 +1,8 @@
 ### Hi there, I'm Darshana 👋
 
-## I'm an Undergraduate student
+## I'm an undergraduate student
 
-- 🔭 I’m currently working on a semester project of my university
+- 🔭 I’m currently working on a final year project of my university
 - 🌱 I’m currently reading Computer Science and Engineering degree at University of Moratuwa
 - 👯 I’m looking to collaborate on an open source project
 - ⚡ Fun fact: A huge Jarvis fan
