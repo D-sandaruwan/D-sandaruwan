@@ -1,9 +1,7 @@
 ### Hi there, I'm Darshana 👋
 
-## I'm an undergraduate student
+## I'm a Software Engineer at Pagero
 
-- 🔭 I’m currently working on a final year project of my university
-- 🌱 I’m currently reading Computer Science and Engineering degree at University of Moratuwa
 - 👯 I’m looking to collaborate on an open source project
 - ⚡ Fun fact: A huge Jarvis fan
 
